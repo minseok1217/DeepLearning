@@ -196,3 +196,5 @@ pyrightconfig.json
 
 ### self ###
 base_line/
+CNN/
+*.csv
